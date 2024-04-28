@@ -1,2 +1,2 @@
-# EM_System
+# Employee_Management_System
 Employee Management System
