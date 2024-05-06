@@ -1,8 +1,11 @@
 # Employee_Management_System
-Employee Management System
+
 A Spring MVC web application for Employee Information Management with the following CRUD operations.
 
 • Get All the employees
+
+
+
 
 • Get an employee by id
 
@@ -14,4 +17,4 @@ A Spring MVC web application for Employee Information Management with the follow
 
 • Delete all employee
 
-Technologies used: Java 17, Spring boot, Spring MVC, Spring Data JPA, Hibernate, Maven, MySQ
+Technologies used: Java 17, Spring boot, Spring MVC, Spring Data JPA, Hibernate, Maven, MySQL, postman.
